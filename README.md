@@ -14,7 +14,7 @@ I also currently working as a research assistant at the [UKP Lab](https://www.uk
 
 - [UKP-SQuARE](https://square.ukp-lab.de) ([github](https://github.com/UKP-SQuARE)) is a Question Answering platform that enables you to swiftly share your QA models with the public and conduct qualitative analysis. It is available on GitHub and square.ukp-lab.de.
 
-### **🌟 Projects**
+### **🌟 Project Highlights**
 
 - **Pebblework**:  
 
@@ -22,14 +22,16 @@ I also currently working as a research assistant at the [UKP Lab](https://www.uk
     
     - Technologies used: Node.js, Express.js, MongoDB, Firebase, Heroku
 
-<br />
 
 - **Tithenai**:
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammed-shihebi&repo=tithenai&theme=tokyonight)](https://github.com/muhammed-shihebi/tithenai)
     - Technologies used: React.js, Firebase, Vercel, Express.js, Material-UI
 
-<br />
+- **Personal Website**:
+
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammed-shihebi&repo=personal-website&theme=tokyonight)](https://github.com/muhammed-shihebi/personal-website)
+    - Technologies used: EJS, Heroku, Express.js, Bootstrap, Contentful, NodeMailer
 
 ### **🎓 Education**
 
