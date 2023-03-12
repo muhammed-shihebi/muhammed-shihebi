@@ -40,7 +40,6 @@ I also currently working as a research assistant at the [UKP Lab](https://www.uk
 ### **🎓 Research**
 
 - A [report](https://drive.google.com/file/d/1KYouxCw3UESN8K6bPGlPXiRsI4e9JH4F/view?usp=share_link) and overview about the paper [*Unsupervised Translation of Programming Languages*](https://arxiv.org/abs/2006.03511)
-
 - [Bachelor Thesis](https://drive.google.com/file/d/1oLJV-9e27A1toQd_YaPPhyD92O7LYpty/view): Building a Question-Answering System for Medium- or Low-Resource Languages using Multilingual Transformer Models.
 
 ### **📊 Stats**
