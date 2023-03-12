@@ -2,6 +2,8 @@
 
 I'm Muhammed, a master's student in computer science at the TU Darmstadt with a passion for natural language processing (NLP), machine learning (ML), and deep learning. I am also skilled in web development, with experience in both front-end and back-end technologies.
 
+I also currently working as a research assistant at the [UKP Lab](https://www.ukp.tu-darmstadt.de/) at TU Darmstadt, where I am working on the [UKP-SQuARE](https://square.ukp-lab.de) project.
+
 ### **💻 Technical Skills**
 
 - **Programming Languages:** Python, Java, JavaScript, SQL, C/C++, Kotlin, HTML, CSS
@@ -34,6 +36,12 @@ I'm Muhammed, a master's student in computer science at the TU Darmstadt with a 
 - Master in Computer Science, TU Darmstadt, (Present)
 - Bachelor in Computer Science, Turkish-German University, 2022
 - Back-End Web Development Bootcamp, Recoded, 2022
+
+### **🎓 Research**
+
+- A [report](https://drive.google.com/file/d/1KYouxCw3UESN8K6bPGlPXiRsI4e9JH4F/view?usp=share_link) and overview about the paper [*Unsupervised Translation of Programming Languages*](https://arxiv.org/abs/2006.03511)
+
+- [Bachelor Thesis](https://drive.google.com/file/d/1oLJV-9e27A1toQd_YaPPhyD92O7LYpty/view): Building a Question-Answering System for Medium- or Low-Resource Languages using Multilingual Transformer Models.
 
 ### **📊 Stats**
 
