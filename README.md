@@ -1,8 +1,6 @@
 ### **Hello!**
 
-I'm Muhammed, a master's student in Artificial Intelligence and Machine Learning at the TU Darmstadt with a passion for natural language processing (NLP). I am also skilled in web development, with experience in both front-end and back-end technologies.
-
-I'm also currently working as a part time AI/ML engineer at the [UKP Lab](https://www.ukp.tu-darmstadt.de/) at TU Darmstadt, where I am working on the [UKP-SQuARE](https://square.ukp-lab.de) project.
+I'm Muhammed, a Machine Learning Engineer at Celonis. I have a passion for NLP and I am skilled in web development and have experience with both front-end and back-end technologies.
 
 ### **💻 Technical Skills**
 
@@ -36,7 +34,7 @@ I'm also currently working as a part time AI/ML engineer at the [UKP Lab](https:
 
 ### **🎓 Education**
 
-- Master in Artificial Intelligence and Machine Learning, TU Darmstadt, (Present)
+- Master in Artificial Intelligence and Machine Learning, TU Darmstadt
 - Bachelor in Computer Science, Turkish-German University, 2022
 - Back-End Web Development Bootcamp, Recoded, 2022
 
